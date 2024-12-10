@@ -1,6 +1,7 @@
 # ascii-art-guessing-game
 Console game where you guess my badly drawn art. Also works as a typing speed tester.
 Made this to test importing and formatting ascii images with colour
+Might add more pictures later
 ## Features
 6 images to guess from - drawn by yours truly
 High-score and time tracker
